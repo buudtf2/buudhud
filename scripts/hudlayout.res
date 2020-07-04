@@ -214,9 +214,9 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"76"
+		"xpos"					"237"
 		"xpos_minmode"			"61"
-		"ypos"					"r152"
+		"ypos"					"r225"
 		"ypos_minmode"			"r134"
 		"wide"					"116"
 		"tall"  				"180"
@@ -484,18 +484,18 @@
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	 "r640"	[$WIN32]
-		"ypos"	 "18"	[$WIN32]
+		"xpos"	 "r630"	[$WIN32]
+		"ypos"	 "0"	[$WIN32]
 		"xpos"	 "r672"	[$X360]
 		"ypos"	 "35"	[$X360]
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "4"
-		"IconScale"	  "0.35"
-		"LineHeight"	  "16"
-		"LineSpacing"	  "4"
-		"CornerRadius"	  "3"
+		"MaxDeathNotices" "7"
+		"IconScale"	  "0.25"
+		"LineHeight"	  "14"
+		"LineSpacing"	  "2"
+		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"Default"

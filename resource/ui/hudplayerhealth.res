@@ -93,13 +93,13 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusMaxHealthValue"
-		"xpos"			"76"
+		"xpos"			"760"
 		"xpos_minmode"	"61"
 		"ypos"			"20"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"6"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
