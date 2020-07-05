@@ -234,7 +234,7 @@
 		"xpos"				"c-55"
 		"xpos_hidef"		"c-150"
 		"xpos_lodef"		"c-150"
-		"ypos"				"0"	[$WIN32]
+		"ypos"				"-10"	[$WIN32]
 		"ypos_minmode"		"-14"	[$WIN32]
 		"ypos"				"24"	[$X360]
 		"zpos"				"2"
@@ -320,17 +320,17 @@
 		"enabled"		"1"
 
 
-		"max_size"	"19"
+		"max_size"	"15"
 
-		"6v6_gap"	"4"
+		"6v6_gap"	"3"
 		"12v12_gap"	"1"
 
 		"team1_grow_dir" "west"
-		"team1_base_x"	"c-45"
+		"team1_base_x"	"c-25"
 		"team1_max_expand"	"133"
 
 		"team2_grow_dir" "east"
-		"team2_base_x"	"c47"
+		"team2_base_x"	"c25"
 		"team2_max_expand"	"133"
 
 		"playerpanels_kv"
