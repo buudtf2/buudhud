@@ -5751,8 +5751,8 @@ Scheme
 		}	
 		"6" 
 		{
-			"font" "resource/TF2 BuildBuild.ttf"
-			"name" "TF2 Build Build"
+			"font" "resource/TF2 Build.ttf"
+			"name" "TF2 Build"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -5781,6 +5781,11 @@ Scheme
 		{
 			"font" "resource/fonts/BlackHanSans-Regular.ttf"
 			"name" "Black Han Sans Regular"
+		}
+		"11" 
+		{
+			"font" "resource/fonts/BalooTamma2-SemiBold.ttf"
+			"name" "Baloo Tamma 2 SemiBold"
 		}
 	}
 }
