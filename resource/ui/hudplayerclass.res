@@ -5,14 +5,14 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"21000"
+		"ypos"			"-85"
 		"ypos_minmode"	"18"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"0"
-		"enabled"		"0"		
+		"visible"		"1"
+		"enabled"		"1"		
 	}
 	"PlayerStatusClassImage"
 	{
@@ -25,9 +25,9 @@
 		"xpos"			"57"	[$X360]
 		"ypos"			"r110"	[$X360]
 		"zpos"			"2"
-		"wide"			"75"
+		"wide"			"40"
 		"wide_minmode"	"37"
-		"tall"			"75"
+		"tall"			"40"
 		"tall_minmode"	"37"
 		"visible"		"1"
 		"enabled"		"1"
@@ -87,8 +87,8 @@
 		"xpos"			"41"	[$X360]
 		"ypos"			"r82"	[$X360]
 		"zpos"			"1"		
-		"wide"			"100"
-		"tall"			"50"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"

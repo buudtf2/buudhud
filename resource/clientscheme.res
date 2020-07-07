@@ -836,7 +836,33 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		
+		"HPammobig"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"30"
+				"tall_lodef"	"52"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HPammosmall"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"24"
+				"tall_lodef"	"52"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
 		"HudFontBiggerBold"
 		{
 			"1"
@@ -5786,6 +5812,16 @@ Scheme
 		{
 			"font" "resource/fonts/BalooTamma2-SemiBold.ttf"
 			"name" "Baloo Tamma 2 SemiBold"
+		}
+		"12" 
+		{
+			"font" "resource/fonts/TF2 Build-Regular.ttf"
+			"name" "Candal"
+		}
+		"13" 
+		{
+			"font" "resource/fonts/DaysOne-Regular.ttf"
+			"name" "Days One"
 		}
 	}
 }

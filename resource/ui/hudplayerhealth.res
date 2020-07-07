@@ -105,7 +105,7 @@
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"center"	
 		"font"			"DefaultSmall"
-		"fgcolor"		"TanDark"
+		"fgcolor"		"255 0 0 255"
 	}
 	"PlayerStatusBleedImage"
 	{
